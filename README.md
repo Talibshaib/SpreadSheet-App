@@ -8,7 +8,7 @@ Develop a frontend application that mimics the functionality of a spreadsheet wi
 
 ## Screenshot
 
-![Screenshot](URL_TO_YOUR_SCREENSHOT)
+![Screenshot](https://raw.githubusercontent.com/Talibshaib/SpreadSheet-App/main/public/sheet.png)
 
 ## Getting Started
 
